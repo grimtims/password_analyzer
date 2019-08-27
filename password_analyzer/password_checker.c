@@ -3,7 +3,7 @@
 #include "password_checker.h"
 
 const char * password_strength[] = {
-    "[  ur dum  ] - No Password",
+    "[ not good ] - No Password",
     "[||--------] 20 % - Very Weak", 
     "[||||------] 40 % - Weak",
     "[||||||----] 60 % - Fair", 
